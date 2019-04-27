@@ -5,20 +5,41 @@
 
         label{
             display: inline-block;
-            min-width: 100px;
+            text-align: left;
         }
 
 form{
   text-align: center;
-  border: 1px solid black;
-  padding: 30px;
+  padding: 10px;
+
   }
 
-fieldset{
- margin-left: 35%;
- width: 30%;
+.fieldset1{
+ width: 90% ;
+ border: 2px solid white;
+ margin-left:5%;  
+}
+
+.fieldset2{
+  border: 1px solid white;
+  margin-left: 35%;
+  padding: 10px;
+  width: 35%;
+  margin-top: 20px;
 }
 
 #commande {
   width: 40px;
+}
+
+html body{
+  background-color: grey;
+}
+
+input{
+  min-width: 60px;
+}
+
+h2{
+  text-align: center;
 }
