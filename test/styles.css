@@ -1,0 +1,45 @@
+.error{
+            color: #FF0000;
+        }
+        
+
+        label{
+            display: inline-block;
+            text-align: left;
+        }
+
+form{
+  text-align: center;
+  padding: 10px;
+
+  }
+
+.fieldset1{
+ width: 90% ;
+ border: 2px solid white;
+ margin-left:5%;  
+}
+
+.fieldset2{
+  border: 1px solid white;
+  margin-left: 35%;
+  padding: 10px;
+  width: 35%;
+  margin-top: 20px;
+}
+
+#commande {
+  width: 40px;
+}
+
+html body{
+  background-color: grey;
+}
+
+input{
+  min-width: 60px;
+}
+
+h2{
+  text-align: center;
+}
